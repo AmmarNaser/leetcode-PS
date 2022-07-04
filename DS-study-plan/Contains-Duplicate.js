@@ -11,7 +11,7 @@ var containsDuplicate = function (nums) {
   return false;
 };
 
-// solution with hashMap.
+// solution with hashMap().
 
 var containsDuplicate = function (nums) {
   const num = new Map();
